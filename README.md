@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @IbrahimKhosa
-- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... BSCS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... +92 3176328423 (WA)
+- 💞️ I’m looking to collaborate on ... Nothing here 🙂
+- 📫 How to reach me ... ibrahim_xhosa (ig)
 - 😄 Pronouns: ... He | His
-- ⚡ Fun fact: ... Nothing here 🙂
+- ⚡ Fun fact: ... No Fact 💀
 
 <!---
 IbrahimKhosa/IbrahimKhosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
